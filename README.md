@@ -67,7 +67,7 @@
 
 2017 ~ 2018 VONVON Game Team Apprentice as a Game Developer
 
-2018-01 Released Rhythm-Zero, Unity based Rhythm Game
+2018 Released Rhythm-Zero, Unity based Rhythm Game
 
 2019 Admission to Bucheon Univ.
 
