@@ -56,16 +56,17 @@
 
 
 
-### Experience  
+### Experience
+<br/>
+2008 - 2013 Adobe Flash Scripter
+
 2011 Gamevil Touchmix 2 Game Tester
 
 2011 Released HD2DJ, Flash based Rhythm Game
 
-2011 ~ 2015 Adobe Flash Scripter
+2015 contributed to Core of Sound, as a Eyecatch Designer
 
-2015 contributed developing Core of Sound as a Eyecatch Designer
-
-2017 ~ 2018 VONVON Game Team Apprentice as a Game Developer
+2017 - 2018 VONVON Game Team Game Developer as a Apprentice
 
 2018 Released Rhythm-Zero, Unity based Rhythm Game
 
