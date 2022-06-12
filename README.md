@@ -57,23 +57,23 @@
 
 
 ### Experience
-<br/>
+<br/><br/>
 2008 - 2013 Adobe Flash Scripter
-
+<br/><br/>
 2011 Gamevil Touchmix 2 Game Tester
-
+<br/><br/>
 2011 Released HD2DJ, Flash based Rhythm Game
-
+<br/><br/>
 2015 contributed to Core of Sound, as a Eyecatch Designer
-
-2017 - 2018 VONVON Game Team Game Developer as a Apprentice
-
+<br/><br/>
+2017 - 2018 VONVON Game Team Developer as a Apprentice
+<br/><br/>
 2018 Released Rhythm-Zero, Unity based Rhythm Game
-
+<br/><br/>
 2019 Admission to Bucheon Univ.
-
+<br/><br/>
 2021 Transfer to CSIE, Catholic University of Korea
-
+<br/><br/>
   
   
 
