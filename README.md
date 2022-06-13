@@ -66,7 +66,7 @@
 <br/><br/>
 2015 contributed to Core of Sound, as a Eyecatch Designer
 <br/><br/>
-2017 - 2018 VONVON Game Team Developer as a Apprentice
+2017 - 2018 VONVON Game Team, Developer & Designer as a Apprentice
 <br/><br/>
 2018 Released Rhythm-Zero, Unity based Rhythm Game
 <br/><br/>
