@@ -4,10 +4,10 @@
 - 🔭 I’m currently learning at [Catholic University of Korea](https://catholic.ac.kr)  
   
 
-- 🌱 I’m currently learning Unity and Unreal 5  
+- 🌱 I’m currently learning Unity, but I can do more things if you want!
   
 
-- 🕹️ https://specs.gg/dabi  
+- 🕹️ My gaming setup is https://specs.gg/dabi  
   
 
 <br/>  
