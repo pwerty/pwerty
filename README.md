@@ -1,13 +1,7 @@
 ### <div align="center">pwerty</div>  
   
 
-- 🔭 I’m currently learning at [Catholic University of Korea](https://catholic.ac.kr)  
-  
-
-- 🌱 I’m currently learning Unity, but I can do more things if you want!
-  
-
-- 🕹️ My gaming setup is https://specs.gg/dabi  
+Performing compulsory military service in ROK Air Force 29 May 2023 ~
   
 
 <br/>  
