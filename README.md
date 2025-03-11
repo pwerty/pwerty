@@ -1,9 +1,4 @@
-### <div align="center">pwerty</div>  
-  
-
-Performing compulsory military service in ROK Air Force 29 May 2023 ~
-  
-
+### <div align="center">pwerty</div>
 <br/>  
 
 
